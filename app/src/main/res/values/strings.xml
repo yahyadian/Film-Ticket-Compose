@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FilmTicket</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="required_price">Rp. %d</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp. %d </string>
+    <string name="total_order">Total harga : Rp. %d </string>
+    <string name="back">Back</string>
+    <string name="film_ticket">Film Ticket</string>
+    <string name="share_message">Hey! I have %1$d Ticket Film, the price is %2$d. Wanna go to the Cinema togerher?</string>
+</resources>
